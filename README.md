@@ -1,2 +1,2 @@
-# benchmark-different-approaches-when-using-foreach-in-javascript
-compare the performance of running foreach in 5 different ways. Namely ES6, tail recursion (without a callback), tail recursion (with a callback), underscore and lodash
+# Benchmark Different Approaches When Using forEach in JavaScript
+This source code is for blog <a href="http://www.sulhome.com/blog/17/benchmark-different-approaches-when-using-foreach-in-javascript" target="_blank">Benchmark Different Approaches When Using forEach in JavaScript</a>
